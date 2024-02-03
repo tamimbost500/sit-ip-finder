@@ -215,8 +215,6 @@ mongorestore --uri="mongodb+srv://USERNAME:PASSWORD@XXXXX.XXXX.mongodb.net/?retr
 * improve error handling and logging with env_logger (custom error handling)
 * implement update function in CRUD
 * middleware with API authentication?
-* testing like: https://github.com/actix/examples/blob/master/databases/mongodb/src/test.rs
-* testcontainers for pipeline testing: https://docs.rs/testcontainers/latest/testcontainers/
 * containerize this application to allow launching inside a simple container or pod in k8s (create also a small helm chart)
 * bind address and port should be defined by the user
 
