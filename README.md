@@ -1,6 +1,5 @@
 <p align="center" >
-    <img src="assets/rust-logo.svg" alt="logo" width="250"/>
-<h3 align="center">ipfinder</h3>
+<h3 align="center">sit-ip-finder</h3>
 <p align="center">Build your own IPV4 geolocation database</p>
 <p align="center">Build with ❤ in Rust</p>
 <p align="center">Don't judge my code, I've only been programming in RUST for 3 weeks without being a developer :)</p>
@@ -8,7 +7,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
 
 - [Badges](#badges)
 - [Introduction](#introduction)
@@ -225,6 +224,4 @@ mongorestore --uri="mongodb+srv://USERNAME:PASSWORD@XXXXX.XXXX.mongodb.net/?retr
 
 Pull requests are welcome! Any code refactoring, improvement, implementation. I just want to learn Rust! I'm a rookie
 
-# LICENSE
 
-[LICENSE](./LICENSE)
